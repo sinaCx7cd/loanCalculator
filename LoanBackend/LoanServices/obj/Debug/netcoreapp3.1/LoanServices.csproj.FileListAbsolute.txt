@@ -1,0 +1,12 @@
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanServices\obj\Debug\netcoreapp3.1\LoanServices.csprojAssemblyReference.cache
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanServices\obj\Debug\netcoreapp3.1\LoanServices.AssemblyInfoInputs.cache
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanServices\obj\Debug\netcoreapp3.1\LoanServices.AssemblyInfo.cs
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanServices\obj\Debug\netcoreapp3.1\LoanServices.csproj.CoreCompileInputs.cache
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanServices\bin\Debug\netcoreapp3.1\LoanServices.deps.json
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanServices\bin\Debug\netcoreapp3.1\LoanServices.dll
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanServices\bin\Debug\netcoreapp3.1\LoanServices.pdb
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanServices\bin\Debug\netcoreapp3.1\LoanModels.dll
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanServices\bin\Debug\netcoreapp3.1\LoanModels.pdb
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanServices\obj\Debug\netcoreapp3.1\LoanServices.csproj.CopyComplete
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanServices\obj\Debug\netcoreapp3.1\LoanServices.dll
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanServices\obj\Debug\netcoreapp3.1\LoanServices.pdb

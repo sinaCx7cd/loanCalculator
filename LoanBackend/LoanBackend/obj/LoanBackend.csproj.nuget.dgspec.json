@@ -1,0 +1,187 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sinaC\\Desktop\\LoanSite\\LoanBackend\\LoanBackend\\LoanBackend.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sinaC\\Desktop\\LoanSite\\LoanBackend\\LoanBackend\\LoanBackend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sinaC\\Desktop\\LoanSite\\LoanBackend\\LoanBackend\\LoanBackend.csproj",
+        "projectName": "LoanBackend",
+        "projectPath": "C:\\Users\\sinaC\\Desktop\\LoanSite\\LoanBackend\\LoanBackend\\LoanBackend.csproj",
+        "packagesPath": "C:\\Users\\sinaC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sinaC\\Desktop\\LoanSite\\LoanBackend\\LoanBackend\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sinaC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\sinaC\\Desktop\\LoanSite\\LoanBackend\\LoanModels\\LoanModels.csproj": {
+                "projectPath": "C:\\Users\\sinaC\\Desktop\\LoanSite\\LoanBackend\\LoanModels\\LoanModels.csproj"
+              },
+              "C:\\Users\\sinaC\\Desktop\\LoanSite\\LoanBackend\\LoanServices\\LoanServices.csproj": {
+                "projectPath": "C:\\Users\\sinaC\\Desktop\\LoanSite\\LoanBackend\\LoanServices\\LoanServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sinaC\\Desktop\\LoanSite\\LoanBackend\\LoanModels\\LoanModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sinaC\\Desktop\\LoanSite\\LoanBackend\\LoanModels\\LoanModels.csproj",
+        "projectName": "LoanModels",
+        "projectPath": "C:\\Users\\sinaC\\Desktop\\LoanSite\\LoanBackend\\LoanModels\\LoanModels.csproj",
+        "packagesPath": "C:\\Users\\sinaC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sinaC\\Desktop\\LoanSite\\LoanBackend\\LoanModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sinaC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sinaC\\Desktop\\LoanSite\\LoanBackend\\LoanServices\\LoanServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sinaC\\Desktop\\LoanSite\\LoanBackend\\LoanServices\\LoanServices.csproj",
+        "projectName": "LoanServices",
+        "projectPath": "C:\\Users\\sinaC\\Desktop\\LoanSite\\LoanBackend\\LoanServices\\LoanServices.csproj",
+        "packagesPath": "C:\\Users\\sinaC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sinaC\\Desktop\\LoanSite\\LoanBackend\\LoanServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sinaC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\sinaC\\Desktop\\LoanSite\\LoanBackend\\LoanModels\\LoanModels.csproj": {
+                "projectPath": "C:\\Users\\sinaC\\Desktop\\LoanSite\\LoanBackend\\LoanModels\\LoanModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

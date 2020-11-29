@@ -1,0 +1,37 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1/linux-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {},
+    ".NETCoreApp,Version=v3.1/linux-x64": {
+      "LoanServices/1.0.0": {
+        "dependencies": {
+          "LoanModels": "1.0.0"
+        },
+        "runtime": {
+          "LoanServices.dll": {}
+        }
+      },
+      "LoanModels/1.0.0": {
+        "runtime": {
+          "LoanModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoanServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LoanModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

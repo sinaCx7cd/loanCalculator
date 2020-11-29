@@ -1,0 +1,9 @@
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanModels\bin\Release\netcoreapp3.1\linux-x64\LoanModels.deps.json
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanModels\bin\Release\netcoreapp3.1\linux-x64\LoanModels.dll
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanModels\bin\Release\netcoreapp3.1\linux-x64\LoanModels.pdb
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanModels\obj\Release\netcoreapp3.1\linux-x64\LoanModels.csprojAssemblyReference.cache
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanModels\obj\Release\netcoreapp3.1\linux-x64\LoanModels.AssemblyInfoInputs.cache
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanModels\obj\Release\netcoreapp3.1\linux-x64\LoanModels.AssemblyInfo.cs
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanModels\obj\Release\netcoreapp3.1\linux-x64\LoanModels.csproj.CoreCompileInputs.cache
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanModels\obj\Release\netcoreapp3.1\linux-x64\LoanModels.dll
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanModels\obj\Release\netcoreapp3.1\linux-x64\LoanModels.pdb

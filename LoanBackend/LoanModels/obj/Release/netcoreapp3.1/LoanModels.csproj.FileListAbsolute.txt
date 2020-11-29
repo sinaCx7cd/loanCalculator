@@ -1,0 +1,9 @@
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanModels\bin\Release\netcoreapp3.1\LoanModels.deps.json
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanModels\bin\Release\netcoreapp3.1\LoanModels.dll
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanModels\bin\Release\netcoreapp3.1\LoanModels.pdb
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanModels\obj\Release\netcoreapp3.1\LoanModels.AssemblyInfoInputs.cache
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanModels\obj\Release\netcoreapp3.1\LoanModels.AssemblyInfo.cs
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanModels\obj\Release\netcoreapp3.1\LoanModels.csproj.CoreCompileInputs.cache
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanModels\obj\Release\netcoreapp3.1\LoanModels.dll
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanModels\obj\Release\netcoreapp3.1\LoanModels.pdb
+C:\Users\sinaC\Desktop\LoanSite\LoanBackend\LoanModels\obj\Release\netcoreapp3.1\LoanModels.csprojAssemblyReference.cache

@@ -1,0 +1,70 @@
+<img src="../../assets/charts_blurred.jpg"/>
+
+<mat-horizontal-stepper #stepper style="margin-top:10px">
+
+    <mat-step [hasError]="!loanHasProperState">
+        <div class="stepContent">
+            <ng-template matStepLabel>Loan type</ng-template>
+            <p>Choose your loan's type</p>
+            <button (click)="onLoanChoice('house')" [class.chosenLoan]="chosenLoanType === 'house'"
+                matTooltip="House loan (3.5%)" mat-icon-button>
+                <mat-icon class="loanTypeIcon">home</mat-icon>
+            </button>
+            <button (click)="onLoanChoice('car')" [class.chosenLoan]="chosenLoanType === 'car'" disabled
+                matTooltip="Car loan (5.0%)" mat-icon-button>
+                <mat-icon class="loanTypeIcon">time_to_leave</mat-icon>
+            </button>
+            <button (click)="onLoanChoice('spending')" [class.chosenLoan]="chosenLoanType === 'spending'" disabled
+                matTooltip="Spending loan (8.0%)" mat-icon-button>
+                <mat-icon class="loanTypeIcon">attach_money</mat-icon>
+            </button>
+            <div>
+                <button mat-button matStepperNext [disabled]="!loanHasProperState">Next</button>
+            </div>
+        </div>
+    </mat-step>
+
+    <mat-step label="Amount" [stepControl]="amountFormGroup">
+        <div class="stepContent">
+            Enter the amount you would like to loan
+                <form [formGroup]="amountFormGroup">
+                    <mat-form-field>
+                        <mat-label>Amount</mat-label>
+                        <input maxlength="7" [(ngModel)]="amount" matInput placeholder="1234$" formControlName="amountCtrl" required>
+                    </mat-form-field>
+                </form>
+            <div>
+                <button mat-button matStepperPrevious>Back</button>
+                <button mat-button matStepperNext>Next</button>
+            </div>
+        </div>
+    </mat-step>
+
+
+    <mat-step label="Payback period">
+        <div class="stepContent">
+            <mat-slider [(ngModel)]="paybackPeriod" thumbLabel min="1" max="25" step="1" value="1" style="width:200px">
+            </mat-slider>
+            <p>Payback period: <b>{{paybackPeriod}}</b> years.</p>
+            <div>
+                <button mat-button matStepperPrevious>Back</button>
+                <button mat-button matStepperNext>Next</button>
+            </div>
+        </div>
+    </mat-step>
+
+    <mat-step>
+        <div class="stepContent">
+            <ng-template matStepLabel>Calculate!</ng-template>
+            <p>You can now proceed with calculation, or change it's <b [matTooltip]="getSettingsSummary()">settings</b>.</p>
+            <div>
+                <button mat-button matStepperPrevious>Back</button>
+                <button mat-button (click)="onCalculateRequest()" [disabled]="!isFormValid()">Calculate</button>
+            </div>
+        </div>
+    </mat-step>
+</mat-horizontal-stepper>
+
+<app-loan-plan [events]="calculationSubject.asObservable()">
+
+</app-loan-plan>
